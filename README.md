@@ -1,6 +1,11 @@
 # Circuit-X
 __With the help of Computer Vision,Generating the truth table of given digital circuit designed on Multisim.__
 
+## Dependencies and Requirements
+- Python 3.7
+- OpenCV
+- numpy
+
 ## Image Processing ##
 *Detection of logic gates*
 
